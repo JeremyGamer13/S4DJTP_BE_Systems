@@ -1,0 +1,34 @@
+{
+    "internal": [
+        { "type": "generic", "in": "blank",          "name": "Blank",          "location": "./assets/images/user_background/generic/blank.png" },
+        { "type": "generic", "in": "gradient",       "name": "Gradient",       "location": "./assets/images/user_background/generic/gradient.png" },
+        { "type": "generic", "in": "blue_splash",    "name": "Blue Splash",    "location": "./assets/images/user_background/generic/blue_splash.png" },
+        { "type": "generic", "in": "green_toxic",    "name": "Green Toxic",    "location": "./assets/images/user_background/generic/green_toxic.png" },
+        { "type": "generic", "in": "pink_swirl",     "name": "Pink Swirl",     "location": "./assets/images/user_background/generic/pink_swirl.png" },
+        { "type": "generic", "in": "yellow_sea",     "name": "Yellow Sea",     "location": "./assets/images/user_background/generic/yellow_sea.png" },
+        { "type": "generic", "in": "white_spiral",   "name": "White Spiral",   "location": "./assets/images/user_background/generic/white_spiral.png" },
+        { "type": "generic", "in": "dark_land",      "name": "Dark Land",      "location": "./assets/images/user_background/generic/dark_land.png" },
+        { "type": "generic", "in": "lime_crystal",   "name": "Lime Crystal",   "location": "./assets/images/user_background/generic/lime_crystal.png" },
+        { "type": "generic", "in": "pink_flame",     "name": "Pink Flame",     "location": "./assets/images/user_background/generic/pink_flame.png" },
+        { "type": "generic", "in": "white_noise",    "name": "White Noise",    "location": "./assets/images/user_background/generic/white_noise.png" },
+        { "type": "generic", "in": "pixel_dark",     "name": "Pixel Dark",     "location": "./assets/images/user_background/generic/pixel_dark.png" },
+        { "type": "generic", "in": "yellow_texture", "name": "Yellow Texture", "location": "./assets/images/user_background/generic/yellow_texture.png" },
+        { "type": "generic", "in": "blue_shot",      "name": "Blue Shot",      "location": "./assets/images/user_background/generic/blue_shot.png" }
+    ],
+    "web": [
+        { "type": "generic", "in": "blank",          "name": "Blank",          "location": "{-HOST_LOCATION-}/files/assets/images/user_background/generic/blank.png" },
+        { "type": "generic", "in": "gradient",       "name": "Gradient",       "location": "{-HOST_LOCATION-}/files/assets/images/user_background/generic/gradient.png" },
+        { "type": "generic", "in": "blue_splash",    "name": "Blue Splash",    "location": "{-HOST_LOCATION-}/files/assets/images/user_background/generic/blue_splash.png" },
+        { "type": "generic", "in": "green_toxic",    "name": "Green Toxic",    "location": "{-HOST_LOCATION-}/files/assets/images/user_background/generic/green_toxic.png" },
+        { "type": "generic", "in": "pink_swirl",     "name": "Pink Swirl",     "location": "{-HOST_LOCATION-}/files/assets/images/user_background/generic/pink_swirl.png" },
+        { "type": "generic", "in": "yellow_sea",     "name": "Yellow Sea",     "location": "{-HOST_LOCATION-}/files/assets/images/user_background/generic/yellow_sea.png" },
+        { "type": "generic", "in": "white_spiral",   "name": "White Spiral",   "location": "{-HOST_LOCATION-}/files/assets/images/user_background/generic/white_spiral.png" },
+        { "type": "generic", "in": "dark_land",      "name": "Dark Land",      "location": "{-HOST_LOCATION-}/files/assets/images/user_background/generic/dark_land.png" },
+        { "type": "generic", "in": "lime_crystal",   "name": "Lime Crystal",   "location": "{-HOST_LOCATION-}/files/assets/images/user_background/generic/lime_crystal.png" },
+        { "type": "generic", "in": "pink_flame",     "name": "Pink Flame",     "location": "{-HOST_LOCATION-}/files/assets/images/user_background/generic/pink_flame.png" },
+        { "type": "generic", "in": "white_noise",    "name": "White Noise",    "location": "{-HOST_LOCATION-}/files/assets/images/user_background/generic/white_noise.png" },
+        { "type": "generic", "in": "pixel_dark",     "name": "Pixel Dark",     "location": "{-HOST_LOCATION-}/files/assets/images/user_background/generic/pixel_dark.png" },
+        { "type": "generic", "in": "yellow_texture", "name": "Yellow Texture", "location": "{-HOST_LOCATION-}/files/assets/images/user_background/generic/yellow_texture.png" },
+        { "type": "generic", "in": "blue_shot",      "name": "Blue Shot",      "location": "{-HOST_LOCATION-}/files/assets/images/user_background/generic/blue_shot.png" }
+    ]
+}
